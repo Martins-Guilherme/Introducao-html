@@ -1,0 +1,38 @@
+    p{
+        font-family: verdana;
+        padding: 25px;
+        text-align: justify;
+        font-size: 18px;
+    }
+    h1, h2, h3{
+        font-family: Arial;
+        text-align: center;
+        color: #B0C4DE;
+    }
+    h2, h5{
+        padding-top: 12px;
+        padding-left: 25px;
+    }
+    #imagem-topo{
+        background-color: #ADD8E6;
+        text-align: center;
+    }
+    footer{
+        font-family: verdana;
+        background-color: #ADD8E6;
+        text-align: left;
+    }
+    *{
+        margin: 0%;
+        border: 0%;
+        padding: 0%;
+    }
+    img{
+        width: 50%;
+        height: 50%
+    }
+    .cliente{
+        text-align: center;
+        color: #B0C4DE;
+        font-family: arial;
+    }
